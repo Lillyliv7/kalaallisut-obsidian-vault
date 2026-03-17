@@ -7,6 +7,6 @@ suu: hello (informal)
 naagga: no (formal)
 naamik: no (informal)
 nuann: great
-
+kakkaak: wow
 
 #vocab
