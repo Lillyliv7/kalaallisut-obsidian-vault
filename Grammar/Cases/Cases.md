@@ -15,3 +15,4 @@ There are 8 cases: The [[Absolutive Case]], [[Ergative Case]], [[Instrumental Ca
 
 The cases that begin with a nasal consonant are likely lexicalized forms of the ergative case, plus an enclitic that nasalizes the final consonant, because m is articulated in the same location as p, and likewise n with t.
 
+#grammar

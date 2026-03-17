@@ -7,3 +7,6 @@ Uku qaqqat kusanarput (Those mountains are beautiful, uku and qaqqat in Absoluti
 It is also used for the patient in transitive sentences
 
 Example:
+Aningaasartarneq nuannarara (I like coin collecting. Aningaasartarneq "coin collecting" in Absolutive case)
+
+#grammar

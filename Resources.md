@@ -12,3 +12,5 @@ https://kl.sermitsiaq.ag/
 
 Various Greenlandic dictionaries
 https://ordbog.gl/
+
+#resources
