@@ -8,5 +8,5 @@ naagga: no (formal)
 naamik: no (informal)
 nuann: great
 kakkaak: wow
-
+sdsad
 #vocab
