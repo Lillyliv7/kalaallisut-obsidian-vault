@@ -1,0 +1,2 @@
+Neqi: Meat
+Nerivoq: Eats

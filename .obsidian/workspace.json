@@ -9,31 +9,17 @@
         "dimension": 57.296954314720814,
         "children": [
           {
-            "id": "f73ca47decabfec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
             "id": "125f2d74680e9436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Cases/Ergative Case.md",
+                "file": "Vocab Groups/Descriptive Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ergative Case"
+              "title": "Descriptive Verbs"
             }
           }
         ]
@@ -223,27 +209,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2988ca628ff52852",
+  "active": "125f2d74680e9436",
   "lastOpenFiles": [
+    "Vocab Groups/Food.md",
+    "Vocab Groups/Geography words.md",
     "Resources.md",
+    "Vocab Groups/Interjections and Greetings.md",
     "pdf/affixlist.pdf",
+    "Vocab Groups/Descriptive Verbs.md",
+    "pdf/kalaallisut_sungiusaatit.pdf",
+    "Grammar/Cases/Ergative Case.md",
+    "pdf/Landsrådsvedtægt om ændringer i den grønlandske retskrivning-1.pdf",
     "pdf/aitwg2ED.pdf",
     "pdf/harry potter 1 Greenlandic OCR.pdf",
     "pdf/qaagit-1.pdf",
-    "pdf/Landsrådsvedtægt om ændringer i den grønlandske retskrivning-1.pdf",
     "pdf/An Introduction to West Greenlandicnofrontpage.pdf",
     "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
     "pdf/CE973P1976.pdf",
     "pdf/Ûmassunik.pdf",
-    "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
     "Grammar/Cases/Cases.md",
     "Grammar/Cases/Absolutive Case.md",
-    "Grammar/Cases/Ergative Case.md",
     "Grammar/Cases/Instrumental Case.md",
     "Grammar/Cases/Locative Case.md",
     "Grammar/Cases/Vialis Case.md",
     "Grammar/Cases/Ablative Case.md",
-    "Vocab Groups/Interjections and Greetings.md",
     "Grammar/Cases/Equalis Case.md",
     "Grammar/Cases/Allative Case.md"
   ]
