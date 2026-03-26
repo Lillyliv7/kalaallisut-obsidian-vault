@@ -35,6 +35,18 @@
               "icon": "lucide-file",
               "title": "Technology"
             }
+          },
+          {
+            "id": "758e19d559246a98",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Installationsvejledning_20GR_D8NLANDSK_20r3"
+            }
           }
         ],
         "currentTab": 1
@@ -228,9 +240,10 @@
   "lastOpenFiles": [
     "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
     "Vocab Groups/Technology.md",
+    "Vocab Groups/Nature.md",
+    "pdf/CE973P1976.pdf",
     "pdf/1893bible.pdf",
     "Grammar/Demonstratives.md",
-    "pdf/CE973P1976.pdf",
     "pdf/aitwg2ED.pdf",
     "Grammar/Collective Plurals.md",
     "Vocab Groups/Descriptive Verbs.md",
@@ -240,7 +253,6 @@
     "pdf/qaagit-1.pdf",
     "pdf/kalaallisut_sungiusaatit.pdf",
     "pdf/sinnattugaq by Mathias Storch.pdf",
-    "Vocab Groups/Nature.md",
     "Vocab Groups/Food.md",
     "Vocab Groups/Interjections and Greetings.md",
     "Resources.md",

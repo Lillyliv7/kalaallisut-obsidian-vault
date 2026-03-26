@@ -1,2 +1,6 @@
 Qarasaasiaq: Computer (qarasaq + -usijaq)
 Toqqorpaa: Clicks it (With the mouse)
+Qupperneq: Page/Tab (In a window)
+Ivertippaa: Installs it (A program) (May or not also work for mounting hard drives or inserting disks, I don't know for sure)
+Aallartippaa: Goes to it (A web page)
+Toorpaa: Presses it (A button/A key)
