@@ -1,0 +1,2 @@
+u(v): This/That. Used for tangible things that are manageable enough to handle by yourself
+ma(t): Used in the same sense as u(v), but for anything that doesn't fall under the tangible and manageable category. This one is starting to fall out of favor, being replaced by u(v)

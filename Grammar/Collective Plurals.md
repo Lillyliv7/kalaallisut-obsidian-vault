@@ -1,4 +1,5 @@
 Some words, when plural can represent a collection of that word.
+I have heard that most young speakers merge these double plurals into one singular word with both meanings.
 For example:
 Oqaaseq: Word
 Oqaatsit: Words/language
