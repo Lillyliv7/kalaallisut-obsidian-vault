@@ -42,14 +42,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf"
+                "file": "pdf/Satellitrapport 2002-grl.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Installationsvejledning_20GR_D8NLANDSK_20r3"
+              "title": "Satellitrapport 2002-grl"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bb8b0d7eedb9e06a",
@@ -236,9 +236,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23967f01b41e631d",
+  "active": "758e19d559246a98",
   "lastOpenFiles": [
     "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
+    "pdf/Ungasik-fjernundervisning-2001-grl.pdf",
+    "pdf/Satellitrapport 2002-grl.pdf",
+    "pdf/POEB_2005_kalaallisut.pdf",
     "Vocab Groups/Technology.md",
     "Vocab Groups/Nature.md",
     "pdf/CE973P1976.pdf",
@@ -251,8 +254,6 @@
     "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
     "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
     "pdf/qaagit-1.pdf",
-    "pdf/kalaallisut_sungiusaatit.pdf",
-    "pdf/sinnattugaq by Mathias Storch.pdf",
     "Vocab Groups/Food.md",
     "Vocab Groups/Interjections and Greetings.md",
     "Resources.md",
