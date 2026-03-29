@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab Groups/Nature.md",
+                "file": "Vocab Groups/Descriptive Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nature"
+              "title": "Descriptive Verbs"
             }
           },
           {
@@ -42,14 +42,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Satellitrapport 2002-grl.pdf"
+                "file": "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Satellitrapport 2002-grl"
+              "title": "Installationsvejledning_20GR_D8NLANDSK_20r3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bb8b0d7eedb9e06a",
@@ -236,24 +236,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "758e19d559246a98",
+  "active": "23967f01b41e631d",
   "lastOpenFiles": [
     "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
-    "pdf/Ungasik-fjernundervisning-2001-grl.pdf",
-    "pdf/Satellitrapport 2002-grl.pdf",
-    "pdf/POEB_2005_kalaallisut.pdf",
     "Vocab Groups/Technology.md",
+    "Vocab Groups/Descriptive Verbs.md",
+    "pdf/kalaallisut_sungiusaatit.pdf",
+    "pdf/Landsrådsvedtægt om ændringer i den grønlandske retskrivning-1.pdf",
+    "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
+    "pdf/Satellitrapport 2002-grl.pdf",
+    "Grammar/Collective Plurals.md",
     "Vocab Groups/Nature.md",
+    "pdf/Ungasik-fjernundervisning-2001-grl.pdf",
+    "pdf/POEB_2005_kalaallisut.pdf",
     "pdf/CE973P1976.pdf",
     "pdf/1893bible.pdf",
     "Grammar/Demonstratives.md",
     "pdf/aitwg2ED.pdf",
-    "Grammar/Collective Plurals.md",
-    "Vocab Groups/Descriptive Verbs.md",
-    "pdf/affixlist.pdf",
-    "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
-    "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
-    "pdf/qaagit-1.pdf",
     "Vocab Groups/Food.md",
     "Vocab Groups/Interjections and Greetings.md",
     "Resources.md",
