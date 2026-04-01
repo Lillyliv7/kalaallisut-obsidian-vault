@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab Groups/Food.md",
+                "file": "Vocab Groups/Nature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food"
+              "title": "Nature"
             }
           },
           {
@@ -217,10 +217,10 @@
   },
   "active": "125f2d74680e9436",
   "lastOpenFiles": [
+    "Vocab Groups/Food.md",
     "pdf/1893bible.pdf",
     "Vocab Groups/Nature.md",
     "Vocab Groups/Technology.md",
-    "Vocab Groups/Food.md",
     "Vocab Groups/Descriptive Verbs.md",
     "pdf/Ûmassunik.pdf",
     "pdf/sinnattugaq by Mathias Storch.pdf",
@@ -231,7 +231,6 @@
     "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
     "pdf/kalaallisut_sungiusaatit.pdf",
     "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
-    "pdf/POEB_2005_kalaallisut.pdf",
     "Grammar/Collective Plurals.md",
     "Grammar/Demonstratives.md",
     "Vocab Groups/Interjections and Greetings.md",
