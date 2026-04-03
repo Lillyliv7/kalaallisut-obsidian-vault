@@ -10,3 +10,4 @@ Arfeq: Whale
 Tulugaq: Crow
 Aasiak: Spider
 Nissavarsuk: Web making spider (very uncommon word compared to Aasiak)
+Niutooq: Daddy longlegs

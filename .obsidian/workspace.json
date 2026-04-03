@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Ûmassunik.pdf"
+                "file": "pdf/nwtgs_GL.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Ûmassunik"
+              "title": "nwtgs_GL"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "Installationsvejledning_20GR_D8NLANDSK_20r3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,20 +216,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "125f2d74680e9436",
+  "active": "23967f01b41e631d",
   "lastOpenFiles": [
-    "Vocab Groups/Food.md",
     "pdf/1893bible.pdf",
+    "pdf/nwtgs_GL.pdf",
+    "pdf/Ûmassunik.pdf",
+    "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
     "Vocab Groups/Nature.md",
+    "Vocab Groups/Food.md",
     "Vocab Groups/Technology.md",
     "Vocab Groups/Descriptive Verbs.md",
-    "pdf/Ûmassunik.pdf",
     "pdf/sinnattugaq by Mathias Storch.pdf",
     "pdf/Satellitrapport 2002-grl.pdf",
     "pdf/CE973P1976.pdf",
     "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
     "pdf/harry potter 1 Greenlandic OCR.pdf",
-    "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
     "pdf/kalaallisut_sungiusaatit.pdf",
     "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
     "Grammar/Collective Plurals.md",
