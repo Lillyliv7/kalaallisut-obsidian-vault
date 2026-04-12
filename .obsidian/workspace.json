@@ -6,6 +6,7 @@
       {
         "id": "0c6ae705a6246733",
         "type": "tabs",
+        "dimension": 45.83333333333333,
         "children": [
           {
             "id": "125f2d74680e9436",
@@ -13,24 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab Groups/Nature.md",
+                "file": "Vocab Groups/Linguistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nature"
+              "title": "Linguistics"
             }
           },
           {
             "id": "23967f01b41e631d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/nwtgs_GL.pdf"
+                "file": "Vocab Groups/Technology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "nwtgs_GL"
+              "icon": "lucide-file",
+              "title": "Technology"
             }
           },
           {
@@ -39,10 +42,42 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf"
+                "file": "pdf/CE973P1976.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Installationsvejledning_20GR_D8NLANDSK_20r3"
+              "title": "CE973P1976"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f639f1bda24196af",
+        "type": "tabs",
+        "dimension": 54.166666666666664,
+        "children": [
+          {
+            "id": "67c7a2e773fef28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Demonstratives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demonstratives"
+            }
+          },
+          {
+            "id": "f229ae337f7f15a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -103,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "95e4e07781ed585b",
@@ -142,6 +177,16 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6a3560f30ba569a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -198,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,26 +261,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23967f01b41e631d",
+  "active": "f229ae337f7f15a8",
   "lastOpenFiles": [
-    "pdf/1893bible.pdf",
-    "pdf/nwtgs_GL.pdf",
-    "pdf/Ûmassunik.pdf",
-    "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
-    "Vocab Groups/Nature.md",
-    "Vocab Groups/Food.md",
-    "Vocab Groups/Technology.md",
-    "Vocab Groups/Descriptive Verbs.md",
-    "pdf/sinnattugaq by Mathias Storch.pdf",
-    "pdf/Satellitrapport 2002-grl.pdf",
-    "pdf/CE973P1976.pdf",
-    "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
-    "pdf/harry potter 1 Greenlandic OCR.pdf",
-    "pdf/kalaallisut_sungiusaatit.pdf",
-    "pdf/mâliâraq-vebaek-bussimi-naapinneq.pdf",
-    "Grammar/Collective Plurals.md",
+    "Kitaata Qeqqani Atorneqarnera Dialektinullu Allanut Atassuteqarnera Interlinear Text with MOFO Tagging.md",
+    "Mofo Format.md",
     "Grammar/Demonstratives.md",
+    "pdf/CE973P1976.pdf",
+    "Pasted image 20260412133441.png",
+    "pdf/harry potter 1 Greenlandic OCR.pdf",
+    "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
+    "Vocab Groups/Linguistics.md",
+    "pdf/aitwg2ED.pdf",
+    "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
+    "pdf/Landsrådsvedtægt om ændringer i den grønlandske retskrivning-1.pdf",
+    "Vocab Groups/Technology.md",
+    "Vocab Groups/Nature.md",
+    "pdf/kalaallisut_sungiusaatit.pdf",
     "Vocab Groups/Interjections and Greetings.md",
+    "pdf/nwtgs_GL.pdf",
+    "pdf/1893bible.pdf",
+    "pdf/Ûmassunik.pdf",
+    "Vocab Groups/Food.md",
+    "Vocab Groups/Descriptive Verbs.md",
+    "Grammar/Collective Plurals.md",
     "Resources.md",
     "Grammar/Cases/Ergative Case.md",
     "Grammar/Cases/Cases.md",
