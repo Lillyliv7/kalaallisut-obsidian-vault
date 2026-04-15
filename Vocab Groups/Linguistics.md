@@ -11,3 +11,6 @@ oqaluut susaatsoq: intransitive verb (oqalup + ute, su + ðaq + it + toq)
 aappersariaq: consonant (aappersarissat in plural)
 ersiut: vowel (ersiutit in plural)
 nipi: sound/voice
+ikkimmioq: alveolar (ikkik gums)
+kigummiu: dental (kigut teeth)
+erinalik: voiced

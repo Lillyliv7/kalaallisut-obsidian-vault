@@ -6,7 +6,7 @@
       {
         "id": "0c6ae705a6246733",
         "type": "tabs",
-        "dimension": 45.83333333333333,
+        "dimension": 51.20274914089347,
         "children": [
           {
             "id": "125f2d74680e9436",
@@ -47,6 +47,18 @@
               "icon": "lucide-file-text",
               "title": "CE973P1976"
             }
+          },
+          {
+            "id": "90cb0bf37eced789",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/sinnattugaq by Mathias Storch.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sinnattugaq by Mathias Storch"
+            }
           }
         ],
         "currentTab": 2
@@ -54,7 +66,7 @@
       {
         "id": "f639f1bda24196af",
         "type": "tabs",
-        "dimension": 54.166666666666664,
+        "dimension": 48.797250859106526,
         "children": [
           {
             "id": "67c7a2e773fef28e",
@@ -62,12 +74,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Demonstratives.md",
+                "file": "Kitaata Qeqqani Atorneqarnera Dialektinullu Allanut Atassuteqarnera Interlinear Text with MOFO Tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demonstratives"
+              "title": "Kitaata Qeqqani Atorneqarnera Dialektinullu Allanut Atassuteqarnera Interlinear Text with MOFO Tagging"
+            }
+          },
+          {
+            "id": "3229b8e811890a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mofo Format.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mofo Format"
+            }
+          },
+          {
+            "id": "68f1b33131d30e41",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/kalaallisut_sungiusaatit.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "kalaallisut_sungiusaatit"
             }
           },
           {
@@ -81,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,16 +299,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f229ae337f7f15a8",
+  "active": "68f1b33131d30e41",
   "lastOpenFiles": [
-    "Kitaata Qeqqani Atorneqarnera Dialektinullu Allanut Atassuteqarnera Interlinear Text with MOFO Tagging.md",
     "Mofo Format.md",
-    "Grammar/Demonstratives.md",
+    "Kitaata Qeqqani Atorneqarnera Dialektinullu Allanut Atassuteqarnera Interlinear Text with MOFO Tagging.md",
     "pdf/CE973P1976.pdf",
+    "pdf/sinnattugaq by Mathias Storch.pdf",
+    "pdf/1893bible.pdf",
+    "Vocab Groups/Linguistics.md",
+    "Grammar/Demonstratives.md",
     "Pasted image 20260412133441.png",
     "pdf/harry potter 1 Greenlandic OCR.pdf",
     "pdf/Fortescue, Jacobson, & Kaplan - Comparative Eskimo Dictionary (1994).pdf",
-    "Vocab Groups/Linguistics.md",
     "pdf/aitwg2ED.pdf",
     "pdf/Installationsvejledning_20GR_D8NLANDSK_20r3.pdf",
     "pdf/Landsrådsvedtægt om ændringer i den grønlandske retskrivning-1.pdf",
@@ -279,8 +319,6 @@
     "pdf/kalaallisut_sungiusaatit.pdf",
     "Vocab Groups/Interjections and Greetings.md",
     "pdf/nwtgs_GL.pdf",
-    "pdf/1893bible.pdf",
-    "pdf/Ûmassunik.pdf",
     "Vocab Groups/Food.md",
     "Vocab Groups/Descriptive Verbs.md",
     "Grammar/Collective Plurals.md",

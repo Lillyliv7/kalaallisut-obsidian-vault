@@ -16,7 +16,7 @@ Kitaata qeqqamiut /ʃ/-iat oqaatigisassartaasalu ilaat
 Central west Greenlanders' /ʃ/ and some of their ??
 
 1.0.0. nipit "seersut", /s/ /ʃ/-ilu marluinngorlutik taamaallaat Paamiuni, Nuummi, Maniitsumi, Sisimiuni taakkualu eqqaanni qangaanit atorneqarput.
-kl/base/n/nipi kl/ending/n/IND.pl kl/base/v/seeq kl/ending/v/PAR.3pl other/\/s\/ other/\/ʃ\/ kl/enclitic/lu  kl/base/n/marluit kl/affix/nv/ŋŋuq kl/ending/v/CON.4pl
+kl/base/n/nipi kl/ending/n/ABS.pl kl/base/v/seeq kl/ending/v/PAR.3pl other/\/s\/ other/\/ʃ\/ kl/enclitic/lu  kl/base/n/marluit kl/affix/nv/ŋŋuq kl/ending/v/CON.4pl
 1.0.0. The "hissing" sounds /s/ and /ʃ/ became separated only in Paamiut, Nuuk, Maniitsoq, Sisimiut and their surroundings when they were used.
 
 1.0.1. nipit taakkua marluiullutik atorneqarnerata kujammut Arsuk killigaa, avannamullu Sisimiut killigalugit.
@@ -31,7 +31,7 @@ In this text I will call the part of the coast which uses these two "hissing" so
 tamatuma avannaani kujataanilumi nipi "seersoq" ataasiinnaavoq, /s/.
 Farther north and south, /s/ is the only "hissing" sound.
 
-Massa tamatumani nipi /s/ ataasiinnartut isigisariaqaraluartoq immikkoortikkumavara, aappaa taallugu /s/1, tassa Kitaata qeqqamiutut /s/-imik nalilik, taavalu /s/2, Kitaata qeqqamiutut /ʃ/-imik nalilik.
+Massa tamatumani nipi /s/ ataasiinnartut isigisariaqaraluartoq immikkoortikkumavara, aappaa taallugu /s/1, tassa Kitaata qeqqamiutut /s/-imik nalilik, taavalo /s/2, Kitaata qeqqamiutut /ʃ/-imik nalilik.
 Even though there it is viewed as there being only one /s/ I want to separate them; one being called /s/1, which in Central West Greenlandic speech corresponds to /s/, and /s/2, which in Central West Greenlandic speech corresponds to /ʃ/.
 
 Taamatut "seersumik" ataasiinnarmik atuiffik taaniarpara "avannaa kujataalu" (naalisarlugu: AK).
@@ -43,3 +43,7 @@ I will also call the area where only 1 "hissing" sound is pronounced "north and 
 "Kujataanik" pivakka Narsap, Qaqortup, Nanortallillu Komunee.
 "South" referring to the Narsaq, Qaqortoq, and Nanortalik municipalities.
 
+Nipit "seersut" tungaasigut Upernavik eqqaalu avannaanik taasannit immikkooruteqarput (naleqq. 3.6).
+The "hissing" sounds' area 
+
+Qulaani naalisakkat oqaaseqatigiinni inissisimanertik malillugu marlunnik atuarneqarsinnaapput: KQ imatut atuarneqarsinnaavoq: "Kitaata qeqqamiutut", imaluunniit: "Kitaata qeqqani".
